@@ -62,7 +62,7 @@
     "boss_14_desc":"Alla fine di ogni turno, infliggi danno al giocatore pari al mana rimanente.",
     "boss_14_bio":"Un essere composto di pura energia, le sue sembianze originali non sono più riconoscibili. Loro desiderarono il potere di sconfiggere l'oscurita e così divenne la luce.",
     "boss_15_name":"Paragon di Luce",
-    "boss_15_desc":"Ottiene una nuova abilità ogni volta che la Salute diminuisce.",
+	"boss_15_desc":"Ottiene una nuova abilità chiave ogni volta che la Salute diminuisce.",
     "boss_15_bio":"Sfidare il Paragon significa affrontare il castigo assoluto. Man mano che la sconfitta si avvicina, la sua potenza diventa sempre più terrificante. La Luce brucerà tutta la terra per sopprimere tutta l'oscurità presente.",
     "boss_16_name":"Discendente del Vuoto",
     "boss_16_desc":"Volante.\nInfliggi danno doppio nei contrattacchi. Ogni volta che il Discendente infligge danno, recupera un ammontare pari di Salute.",
