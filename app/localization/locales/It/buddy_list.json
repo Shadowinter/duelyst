@@ -47,6 +47,6 @@
 	"status_queue": "in coda",
 	"status_game": "partita",
 	"status_watching": "guarda",
-	"status_challenge": "sfida",
+	"status_challenge": "Sfida",
 	"status_offline": "disconesso"
 }
